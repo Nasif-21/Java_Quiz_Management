@@ -1,0 +1,130 @@
+[
+  {
+    "answerkey": 3,
+    "option 3": "System Testing",
+    "option 4": "Statement Coverage",
+    "question": "Which of the following is a type of black-box testing?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Integration",
+    "option 4": "Inspection",
+    "question": "In software testing, which term refers to checking if the product meets customer needs?",
+    "option 1": "Verification",
+    "option 2": "Validation"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Acceptance Testing",
+    "option 4": "Debugging",
+    "question": "Which of the following is NOT a level of software testing?",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Regression Testing",
+    "option 4": "Performance Testing",
+    "question": "Which type of testing is performed without executing the code?",
+    "option 1": "Static Testing",
+    "option 2": "Dynamic Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit Testing",
+    "option 4": "Smoke Testing",
+    "question": "Which of these is a non-functional testing type?",
+    "option 1": "Regression Testing",
+    "option 2": "Load Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Regression Testing",
+    "option 4": "Alpha Testing",
+    "question": "Which testing ensures that new code changes do not break existing functionality?",
+    "option 1": "Sanity Testing",
+    "option 2": "Unit Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Methodology",
+    "option 4": "Method",
+    "question": "Agile is a?",
+    "option 1": "Test Stratrgy",
+    "option 2": "Model"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Test Implementation",
+    "option 4": "Test completion activity",
+    "question": "Which activity is not done by Test Manager?",
+    "option 1": "Test Planning",
+    "option 2": "Test Monitor and control"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "8",
+    "option 4": "9",
+    "question": "What is the count of STLC?",
+    "option 1": "6",
+    "option 2": "7"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "400",
+    "option 4": "401",
+    "question": "After an API request is sent, the server throws a error code saying internal server error in postman. Which is the posible HTTP request it sends? ",
+    "option 1": "501",
+    "option 2": "500"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Penetration Testing",
+    "question": "Brupsuit is used for?",
+    "option 1": "API Testing",
+    "option 2": "Manual Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Spike Test",
+    "option 4": "Database Test",
+    "question": "To find out the sudden increase of load in a sudden time, which test is done?",
+    "option 1": "Load test",
+    "option 2": "Stress Test"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "save()",
+    "option 4": "flush()",
+    "question": "What is the command for saving a JSON file?",
+    "option 1": "read()",
+    "option 2": "write()"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Its a METHOD",
+    "option 4": "Its a model",
+    "question": "@Test annotation indicates?",
+    "option 1": "Its a test ",
+    "option 2": "Its a class"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "how well a system performs under its server",
+    "option 4": "minimum and maximum boundary value ",
+    "question": "What is capacity Testing?",
+    "option 1": "ability to take load of number of users",
+    "option 2": "capacity of a database to add new data"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Capacity",
+    "option 4": "Security",
+    "question": "In which test, we keep user constant and time variable?",
+    "option 1": "Stress",
+    "option 2": "Load"
+  }
+]

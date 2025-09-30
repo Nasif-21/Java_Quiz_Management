@@ -2,7 +2,6 @@
 build
 .idea
 gradle
-src/test
 
 
 !gradle/wrapper/gradle-wrapper.jar
